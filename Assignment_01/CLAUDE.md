@@ -8,6 +8,22 @@
 |---------|------|------|------------|------------|
 | 1 | 2025-12-11 | 9/10 | 90% | 5 min |
 
+### Quiz Instructions/Rules
+
+For examiners/instructors conducting this quiz:
+
+1. Always provide the raw Markdown code, not the rendered output
+   - Example: Show `## Heading` instead of showing the rendered ## Heading
+   - Example: Show `` `code` `` instead of showing the rendered `code`
+
+2. Do not provide hints or explanations during the quiz
+   - Only present the question and answer options
+   - Wait for the participant's response before confirming correctness
+
+3. Present questions one-by-one to avoid overwhelming the participant
+
+4. Track the score and time taken for the assessment
+
 ### Questions
 
 1. What is the Markdown syntax for creating a level 2 heading?
