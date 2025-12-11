@@ -10,7 +10,7 @@
 
 ### Quiz Instructions/Rules
 
-For examiners/instructors conducting this quiz:
+For Claude when conducting this quiz:
 
 1. Always provide the raw Markdown code, not the rendered output
    - Example: Show `## Heading` instead of showing the rendered ## Heading
